@@ -203,11 +203,11 @@ const day = 'monday';
 //     console.log('Enjoy the week');
 // else
 //     console.log('Not a valid day');
-const age = 23;
-age >= 18 ? console.log(' will drink wine ') : console.log('I will like to drink water');
-const drink = age >= 18 ? 'wine' : 'water';
-console.log(drink);
-console.log(`I like to drink ${age >= 18 ? 'wine' : 'water'}`);
+// const age = 23;
+// age >= 18 ? console.log(' will drink wine ') : console.log('I will like to drink water');
+// const drink = age >= 18 ? 'wine' : 'water';
+// console.log(drink);
+// console.log(`I like to drink ${age >= 18 ? 'wine' : 'water'}`);
 
 
 
